@@ -1,0 +1,63 @@
+22 ALIENAÇÃO
+
+coberta freudiana; isto é, se a psicanálise tem
+alguma relação com a démarche cartesiana,
+é para subvertê-la, uma vez que, para a psi-
+canálise, não há sujeito transparente para si
+mesmo, e ser e sujeito são disjuntos. Para a
+psicanálise, “pensar" e "ser" não são a mes-
+ma coisa. O que está em questão é antes a
+negação de sua coincidência.
+De fato, designando por A e B os dois
+círculos do "penso" e do "sou" e aplicando
+as fórmulas de Morgan, temos:
+C(A∩B) = CA∪CB
+[Diagrama esq. 2 com dois círculos sobrepostos, A (Penso) e B (Sou)]
+O complementar da interseção dos dois
+Conjuntos A e B é igual à reunião de seus
+complementares, ou ainda, empregando a
+barra da negação:
+A∩B=A∪B
+(ver apêndice: Teoria dos Conjuntos)
+A negação dessa coincidência é pois equi-
+valente a: "Não penso ou não sou", fórmula
+sobre a qual Lacan funda sua lógica da fan-
+tasia. Os dois complementares A e B estan-
+do disjuntos, temos: A B = Ø (conjunto
+vazio).
+Isso mostra que as formações do incons-
+ciente não comportam um sujeito capaz de
+acompanhar suas representações e se asse-
+gurar da continuidade de seu ser.
+[Diagrama esq. 3 com dois círculos não sobrepostos, não A e não B]
+O esquema 4a mostra que a escolha de um
+"não penso” não implica, como se poderia
+esperar, a emergência de um "sou", mas de
+um "isso". Assim também, a escolha do
+[Diagrama esq. 4 com dois círculos sobrepostos, Não sou e Não penso, com a intersecção vazia A∩B = Ø]
+"não sou” faz surgir não um "penso", mas
+uma representação das coisas em que o fun-
+cionamento literal marcado pelo selo do
+não-senso é devido não à afirmação de um
+sujeito mas à exclusão de um significante.
+Em outras palavras, o "sou" que essa nega-
+ção implica é um “não penso". Mas ela
+comporta também uma outra via, a de um
+"não sou" (B), onde habita o pensamento
+inconsciente. Trata-se, para Lacan, de con-
+jugar o que, em Freud, permaneceu separa-
+do, a saber, os dois termos isso e incons-
+ciente, e de mostrar de que modo e em que
+medida o objeto libidinal pode ser deduzido
+do não-senso do significante. Daí a necessi-
+dade de compor aquilo que situa, por um
+lado, o significante na operação alienante e,
+por outro, o objeto a na operação dita de
+separação.
+[Diagrama com um círculo Ā e um ponto "isso" fora dele]
+[Diagrama esq. 4b com um círculo B, contendo um círculo menor "Ics" e um ponto "a"]
+A esta altura, devemos nos voltar para o
+que é o ponto de partida para a psicanálise,
+isto é, a linguagem, e a linguagem conside-
+rada a partir da cadeia significante reduzida
+ao mínimo: S₁ → S₂; essa matriz parece pro-
